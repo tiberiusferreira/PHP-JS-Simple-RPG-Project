@@ -283,7 +283,7 @@ function show_login_form_action(){
     <html>
     <div style='text-align:center'>
         <H1>Welcome!</H1>
-        <H1>This game is a project for the course IN11</H1>
+        <H1>This game is a simple PHP RPG project! Have fun!</H1>
 
     <form action="game.php" method="GET">
         <input type=text name="name" placeholder="Enter your name">
